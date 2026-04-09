@@ -13,7 +13,7 @@ Final project for the course of Reinforcement Learning 2020/2021.
     -   [RL]experiments.ipynb [Open In Collab 🔗](https://colab.research.google.com/github/lambertinialessandro/RL-FinalProject/blob/main/[RL]experiments.ipynb)
 
 ## 📜 Report
--   report [Link 🔗](./RL%20project%20report.pdf)
+-   report [Link 🔗](./RL_ResearchProject/RL%20project%20report.pdf)
 
     In this file you can read more about the code and the result of the project.
 
