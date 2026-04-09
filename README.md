@@ -1,4 +1,4 @@
-# 2021 RL Final Project
+# 2021 RL Research Project
 
 Final project for the course of Reinforcement Learning 2020/2021.
 
