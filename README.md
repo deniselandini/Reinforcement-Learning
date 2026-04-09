@@ -1,10 +1,9 @@
 # 2021 RL Research Project
 
 Final project for the course of Reinforcement Learning 2020/2021.
-
->Student: Alessandro Lambertini Mat: `1938390`;
->
 >Student: Denise Landini Mat: `1938388`;
+>
+>Student: Alessandro Lambertini Mat: `1938390`;
 
 ## 📝 Assignment
 
